@@ -1,5 +1,4 @@
-# EmailForge - construtor de emails html
-
+# EmailForge
 Class _mail_constructor:
 
 ```
